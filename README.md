@@ -1,83 +1,76 @@
 # Proctrol-system
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI-Powered Proctoring System</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1, h2, h3 { color: #333; }
-        ul { padding-left: 20px; }
-        code { background: #f4f4f4; padding: 2px 5px; border-radius: 5px; }
-    </style>
-</head>
-<body>
-    <h1>AI-Powered Proctoring System</h1>
+AI-Powered Proctoring System
 
-    <h2>The Problem with Traditional Proctoring</h2>
-    <h3>Privacy Concerns</h3>
-    <ul>
-        <li>Webcams and microphones raise ethical issues and deter test-takers.</li>
-    </ul>
+The Problem with Traditional Proctoring
 
-    <h3>Scalability Challenges</h3>
-    <ul>
-        <li>Human review is costly and inefficient for large-scale assessments.</li>
-    </ul>
+Privacy Concerns
 
-    <h3>Inaccurate Detection</h3>
-    <ul>
-        <li>High false-positive rates lead to unfair accusations and wasted resources.</li>
-    </ul>
+Webcams and microphones raise ethical issues and deter test-takers.
 
-    <h3>Market Statistic</h3>
-    <ul>
-        <li><strong>75% of students express privacy concerns with webcam proctoring.</strong></li>
-    </ul>
+Scalability Challenges
 
-    <h2>Why This Matters</h2>
-    <ul>
-        <li>Balances effective exam monitoring with student privacy.</li>
-        <li>Reduces reliance on invasive tools like webcams and microphones.</li>
-        <li>Minimizes false positives for a fairer testing environment.</li>
-        <li>Protects students' personal information while ensuring exam integrity.</li>
-    </ul>
+Human review is costly and inefficient for large-scale assessments.
 
-    <h2>Technology Stack</h2>
-    <h3>Frontend</h3>
-    <ul>
-        <li>React v18</li>
-    </ul>
-    <h3>Backend</h3>
-    <ul>
-        <li>Node.js v16</li>
-        <li>Python</li>
-        <li>Scikit-Learn (Isolation Forest, SVM)</li>
-    </ul>
-    <h3>API</h3>
-    <ul>
-        <li>FastAPI</li>
-    </ul>
-    <h3>Database</h3>
-    <ul>
-        <li>Firebase</li>
-    </ul>
-    <h3>Real-Time Updates</h3>
-    <ul>
-        <li>WebSocket</li>
-    </ul>
+Inaccurate Detection
 
-    <h2>Future Enhancements</h2>
-    <ol>
-        <li><strong>Mouse Stroke Analysis</strong> - Detect anomalies based on current mouse movements, especially for MCQ-type questions.</li>
-        <li><strong>Restricted Copy-Paste for Coding Questions</strong> - Users will only be allowed to copy and paste within the same page, preventing external copying.</li>
-        <li><strong>Initial Facial Recognition for Authentication</strong> - Ensuring user identity verification before the exam begins.</li>
-    </ol>
+High false-positive rates lead to unfair accusations and wasted resources.
 
-    <h2>Contributing</h2>
-    <p>Contributions are welcome! Feel free to fork the repository and submit pull requests.</p>
-</body>
-</html>
+Market Statistic
+
+75% of students express privacy concerns with webcam proctoring.
+
+Why This Matters
+
+Balances effective exam monitoring with student privacy.
+
+Reduces reliance on invasive tools like webcams and microphones.
+
+Minimizes false positives for a fairer testing environment.
+
+Protects students' personal information while ensuring exam integrity.
+
+Technology Stack
+
+Frontend
+
+React v18
+
+Backend
+
+Node.js v16
+
+Python
+
+Scikit-Learn (Isolation Forest, SVM)
+
+API
+
+FastAPI
+
+Database
+
+Firebase
+
+Real-Time Updates
+
+WebSocket
+
+Future Enhancements
+
+Mouse Stroke Analysis
+
+Detect anomalies based on current mouse movements, especially for MCQ-type questions.
+
+Restricted Copy-Paste for Coding Questions
+
+Users will only be allowed to copy and paste within the same page, preventing external copying.
+
+Initial Facial Recognition for Authentication
+
+Ensuring user identity verification before the exam begins.
+
+Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
