@@ -52,6 +52,9 @@
 <ul>
     <li>WebSocket</li>
 </ul>
+<h2>Flowchart</h2>
+
+<img src="[images/proctoring-system.png](https://github.com/Vishnu-Inequity/Proctrol-system/blob/main/Flowchart.png)" alt="Proctoring System Overview" width="600">
 
 <h2>Future Enhancements</h2>
 <ol>
